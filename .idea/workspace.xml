@@ -1,17 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c4032bce-508b-4bbb-a8be-8ad06296f3ce" name="Changes" comment="1st exercise" />
+    <list default="true" id="c4032bce-508b-4bbb-a8be-8ad06296f3ce" name="Changes" comment="1st exercise">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework3/Homework3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework3/Homework3.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" show_ignored="true" />
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -32,7 +37,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "Q:/Обучение/Курс Java-developer/3_Java basic/Лабораторные/Homework3"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -41,7 +47,7 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Homework3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Homework3.Homework3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Homework3.Homework3" />
       <module name="Homework3" />
       <extension name="coverage">
@@ -56,7 +62,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Homework3" />
+        <item itemvalue="Application.Homework3.Homework3" />
       </list>
     </recent_temporary>
   </component>
@@ -83,7 +89,21 @@
       <option name="project" value="LOCAL" />
       <updated>1656008979225</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="1st exercise">
+      <created>1656009036933</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1656009036933</updated>
+    </task>
+    <task id="LOCAL-00004" summary="1st exercise">
+      <created>1656009221049</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1656009221049</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
